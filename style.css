@@ -155,3 +155,12 @@ li {
 		font-size: 2em;
 	}
 }
+.p_click{
+    color: red;
+}
+.h2_hover{
+    background-color: lightblue;
+}
+.h2_font_size{
+    font-size: 2em;
+}
